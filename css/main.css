@@ -24,6 +24,13 @@ mariobadilla.com
     background-position-x: 1344px; }
   100% {
     background-position-x: 0; } }
+/* then use */
+/*
+div.logo {
+  background: url("logo.png") no-repeat;
+  @include image-2x("logo2x.png", 100px, 25px);
+}
+*/
 /*
 * Skeleton V2.0.4
 * Copyright 2014, Dave Gamache
@@ -1538,13 +1545,16 @@ dl dd {
     color: white; }
 
 .modal {
-  position: absolute;
-  z-index: 1000;
-  background-color: white;
+  position: fixed;
+  display: block;
+  height: 100vh;
+  width: 100vw;
   min-width: 100%;
   min-height: 100%;
-  background-color: rgba(50, 60, 100, 0.85);
-  padding: 2em 0; }
+  top: 0;
+  left: 0;
+  background-color: rgba(50, 60, 100, 0.9);
+  z-index: 1000; }
 
 #respuesta-window, #recomendacion-window {
   line-height: 1.5;
@@ -1553,7 +1563,9 @@ dl dd {
   background: #f2f2f2;
   width: 90%;
   max-width: 100%;
-  margin: 100px auto 0;
+  max-height: calc(90vh - 100px);
+  overflow-y: scroll;
+  margin: 80px auto 0;
   -moz-border-radius: 0.5em;
   -webkit-border-radius: 0.5em;
   border-radius: 0.5em;
