@@ -55,12 +55,19 @@
 	    
 	    $($content).css({top:'100%', opacity:'0'});
 	    
-	    $($content).animate({top:top, opacity:'1'}, 1000);
+	    $($content).animate({top:top, opacity:'1'}, 500);
 	});
 	
 	$('#recomendacion').on('click', function() {           // Click handler to open modal
 		$content = $contentB;
 		modal.open({content: $content});
+		
+		var $window = $(window); 
+	    var top = Math.max($window.height() - $content.outerHeight(), 0) / 2;
+	    
+	    $($content).css({top:'100%', opacity:'0'});
+	    
+	    $($content).animate({top:top, opacity:'1'}, 500);
 	});
 	
 	
