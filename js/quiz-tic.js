@@ -12,7 +12,7 @@
 			correctAnswer: "d"
 		},
 		{
-			question: "Le permitirá tener un mayor control de las tareas que tiene asignadas, además de catalogarlas por fecha y estar al día con sus actividades.",
+			question: "Te permite tener un mayor control de las tareas asignadas, además de catalogarlas por fecha y estar al día con las actividades que realizás.",
 			answers: {
 				a: "Prezi",
 				b: "Gmail",
@@ -34,7 +34,7 @@
 			correctAnswer: "a"
 		},
 		{
-			question: "Le permite sincronizar sus cuentas de correo electrónico institucionales con las comerciales.",
+			question: "Te permite sincronizar las cuentas de correo electrónico institucionales con las comerciales.",
 			answers: {
 				a: "Prezi",
 				b: "Gmail",
@@ -45,7 +45,7 @@
 			correctAnswer: "b"
 		},
 		{
-			question: "Se sincroniza con Outlook y permite conferencias de audio y video y reuniones en línea con uso compartido del escritorio.",
+			question: "Se sincroniza con Outlook y te permite conferencias de audio y video y reuniones en línea con uso compartido del escritorio.",
 			answers: {
 				a: "Prezi",
 				b: "Gmail",
