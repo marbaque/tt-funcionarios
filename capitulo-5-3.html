@@ -8,6 +8,30 @@
   <title>Teletrabajo | Salud ocupacional</title>
   <meta name="description" content="">
   <meta name="author" content="">
+  
+  <link type="text/css" rel="stylesheet" media="all" href="h5p-standalone/dist/styles/h5p.css" />
+  <script type="text/javascript" src="h5p-standalone/dist/js/h5p-standalone-main.min.js"></script>
+  
+  <script type="text/javascript">
+    (function($) {
+      $(function() {
+        $('.h5p-container').h5p({
+          frameJs: 'h5p-standalone/dist/js/h5p-standalone-frame.min.js',
+          frameCss: 'h5p-standalone/dist/styles/h5p.css',
+          h5pContent: 'h5p-standalone/workspace/salud',
+          displayOptions: { // OPTIONAL hide the frame or download, export etc. buttons they are visible by default
+		    frame: true,
+		    copyright: false,
+		    embed: false,
+		    download: false,
+		    icon: true,
+		    export: false
+		  }
+        });
+      });
+    })(H5P.jQuery);
+  </script>
+
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -22,8 +46,9 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
+  <link type="text/css" rel="stylesheet" media="all" href="h5p-standalone/dist/styles/h5p.css" />
 
-
+  
 
 
   <!-- Favicon
@@ -80,6 +105,7 @@
 	    <div class="eight columns">
 			
 			<h2>Procedimiento en caso de accidente laboral</h2>
+
 			
 			<p>Al igual que los trabajadores presenciales, podrías sufrir un accidente en el lugar donde te encontrés ejerciendo las labores, por eso debés conocer el procedimiento en caso de sufrir un acontecimiento de esa naturaleza. </p>
 			
@@ -131,7 +157,7 @@
 				<li>El cobro de la póliza se hará por medio de reembolso, según lo establece el INS.</li>
 			</ul>
 
-
+			
 
 
 
@@ -161,14 +187,7 @@
 						<h5>Instrucciones:</h5>
 						<p>Lee con detenimiento las actividades y seleccioná entre las opciones Sí o No según considerés si la actividad contribuye a mantener tu buen estado de salud en caso de incorporarte a teletrabajar, al finalizar, verificá tus respuestas.</p>
 
-						<div id="quiz"></div>
-						<div class="quiz-nav">
-							<button id="submit">Verificar respuestas</button>
-							<button id="reset">Reiniciar actividad</button>
-						</div>
-						
-						<div id="results"></div>
-
+						<div class="h5p-container"></div>
     	
     					
     		        </div>
@@ -230,8 +249,6 @@
   <script src="js/navigation.js"></script>
   <link href="dist/css/lightbox.css" rel="stylesheet">
   <script src="dist/js/lightbox.js"></script>
-  <script src="js/quiz-v.js" charset="utf-8">
-  	
-  </script>
+
 </body>
 </html>
