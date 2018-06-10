@@ -1,12 +1,9 @@
-# Teletrabajo para jefes
-La Guía de teletrabajo para jefes ha sido elaborada para todas aquellas personas involucradas en la 
-administración de talento humano e interesadas en conocer sobre el tema para así administrar, en un futuro, 
-a funcionarios teletrabajadores.
+# Teletrabajo para funcionarios
+La Guía de teletrabajo para funcionarios se elaboró para vos, que te desempeñarás próximamente como teletrabajador y estás interesado en conocer las principales características y consideraciones del teletrabajo para el desempeño óptimo de tus labores.
 
-Como podrá observar, este material está conformado por una introducción, seis capítulos, un glosario y las 
-referencias bibliográficas respectivas. Además, está disponible para descargar en una versión en formato PDF.
+Como podrás observar, este material está conformado por una introducción, seis capítulos, un glosario y las referencias bibliográficas respectivas. Además, está disponible en una versión en formato PDF para descargar.
 
-Esperamos que este material sea de utilidad en sus procesos de conocimiento y gestión acerca del teletrajo para jefes.
+Esperamos que este material te sea de utilidad en tus procesos de conocimiento acerca del teletrabajo para funcionarios.
 
 ## Créditos
 
