@@ -10,6 +10,7 @@ Nota: esta Guía emplea el término teletrabajador, refiriéndose tanto al géne
 ## Créditos
 
 * Universidad Estatal a Distancia (UNED) de Costa Rica.
+* Fundación de la Universidad Estatal a Distancia para el Desarrollo y Promoción de la Educación a Distancia (FUNDEPREDI).
 * Vicerrectoría de Planificación.
 * Programa de teletrabajo.
 * Productor: Juan Diego Delgado Vargas.
@@ -26,7 +27,7 @@ Adriana Oviedo Vega,
 aoviedo@uned.ac.cr
 Alejandra Arce Romero,
 aarcer@uned.ac.cr.
-Sede central de la UNED, Edificio Ii+D, segundo piso, ala oeste.
+Sede central de la UNED de Costa Rica, Edificio Ii+D, segundo piso, ala oeste.
 Teléfono: 2234-3236 ext. 3525.
 
 Versión: 1.0.
