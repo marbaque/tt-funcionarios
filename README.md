@@ -26,9 +26,9 @@ Adriana Oviedo Vega,
 aoviedo@uned.ac.cr
 Alejandra Arce Romero,
 aarcer@uned.ac.cr.
-Sede central de la UNED, Edificio Ii+D, segundo piso.
-Teléfono: 2234-3236 ext.3525.
+Sede central de la UNED, Edificio Ii+D, segundo piso, ala oeste.
+Teléfono: 2234-3236 ext. 3525.
 
 Versión: 1.0.
-Publicación: julio de 2018.
-Última actualización: julio de 2018.
+Publicación: julio, 2018.
+Última actualización: julio, 2018.
