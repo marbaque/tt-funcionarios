@@ -22,10 +22,10 @@ Nota: esta Guía emplea el término teletrabajador, refiriéndose tanto al géne
 
 Comentarios o consultas:
 Programa de teletrabajo de la UNED de Costa Rica.
-Adriana Oviedo Vega.
+Adriana Oviedo Vega,
 aoviedo@uned.ac.cr
-Alejandra Arce Romero.
-aarcer@uned.ac.cr
+Alejandra Arce Romero,
+aarcer@uned.ac.cr.
 Sede central de la UNED, Edificio Ii+D, segundo piso.
 Teléfono: 2234-3236 ext.3525.
 
