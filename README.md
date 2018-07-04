@@ -9,24 +9,26 @@ Nota: esta Guía emplea el término teletrabajador, refiriéndose tanto al géne
 
 ## Créditos
 
-* Vicerrectoría de Planificación, UNED, Costa Rica.
-* Programa de teletrabajo, UNED de Costa Rica.
+* Universidad Estatal a Distancia (UNED) de Costa Rica.
+* Vicerrectoría de Planificación.
+* Programa de teletrabajo.
 * Productor: Juan Diego Delgado Vargas.
-* Adaptación de contenido: Adriana Oviedo Vega y Alejandra Arce Romero, Programa de teletrabajo de la UNED, Costa Rica.
-* Supervisión: Edgar Castro, Vicerrector de Planificación de la UNED, Costa Rica.
+* Adaptación de contenido: Adriana Oviedo Vega y Alejandra Arce Romero, Programa de teletrabajo de la UNED de Costa Rica.
+* Supervisión: Edgar Castro, Vicerrector de Planificación de la UNED de Costa Rica.
 * Revisión filológica: Mauren González Jones.
 * Diseño gráfico e ilustraciones: Juan Diego Delgado Vargas.
 * Fotografías: ©Depositphotos.Inc, adquiridas bajo Licencia Estándar.
 * Desarrollo y programación web: Mario Badilla Quesada.
 
 Comentarios o consultas:
-Programa de teletrabajo de la UNED, Costa Rica.
-Adriana Oviedo Vega / aoviedo@uned.ac.cr
-Alejandra Arce Romero / aarcer@uned.ac.cr
+Programa de teletrabajo de la UNED de Costa Rica.
+Adriana Oviedo Vega
+aoviedo@uned.ac.cr
+Alejandra Arce Romero
+aarcer@uned.ac.cr
 Sede central de la UNED, Edificio Ii+D, segundo piso.
 Teléfono: 2234-3236 ext.3525
 
 Versión: 1.0.
-Publicación: julio, 2018.
-
+Publicación: julio de 2018.
 Última actualización: julio de 2018.
