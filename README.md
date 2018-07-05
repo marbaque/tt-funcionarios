@@ -8,7 +8,6 @@ Esperamos que este material te sea de utilidad en tus procesos de conocimiento a
 Nota: esta Guía emplea el término teletrabajador, refiriéndose tanto al género masculino como femenino.
 
 ## Créditos
-
 * Universidad Estatal a Distancia (UNED) de Costa Rica.
 * Fundación de la Universidad Estatal a Distancia para el Desarrollo y Promoción de la Educación a Distancia (FUNDEPREDI).
 * Vicerrectoría de Planificación.
@@ -20,7 +19,6 @@ Nota: esta Guía emplea el término teletrabajador, refiriéndose tanto al géne
 * Diseño gráfico e ilustraciones: Juan Diego Delgado Vargas.
 * Fotografías: ©Depositphotos.Inc, adquiridas bajo Licencia Estándar.
 * Desarrollo y programación web: Mario Badilla Quesada.
-
 Comentarios o consultas:
 Programa de teletrabajo de la UNED de Costa Rica.
 Adriana Oviedo Vega,
@@ -29,7 +27,6 @@ Alejandra Arce Romero,
 aarcer@uned.ac.cr.
 Sede central de la UNED de Costa Rica, Edificio Ii+D, segundo piso, ala oeste.
 Teléfono: 2234-3236 ext. 3525.
-
 Versión: 1.0.
 Publicación: julio, 2018.
 Última actualización: julio, 2018.
