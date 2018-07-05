@@ -26,8 +26,10 @@ Adriana Oviedo Vega,
 aoviedo@uned.ac.cr
 Alejandra Arce Romero,
 aarcer@uned.ac.cr.
+
 Sede central de la UNED de Costa Rica, Edificio Ii+D, segundo piso, ala oeste.
 Teléfono: 2234-3236 ext. 3525.
+
 Versión: 1.0.
 Publicación: julio, 2018.
 Última actualización: julio, 2018.
