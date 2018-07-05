@@ -19,6 +19,7 @@ Nota: esta Guía emplea el término teletrabajador, refiriéndose tanto al géne
 * Diseño gráfico e ilustraciones: Juan Diego Delgado Vargas.
 * Fotografías: ©Depositphotos.Inc, adquiridas bajo Licencia Estándar.
 * Desarrollo y programación web: Mario Badilla Quesada.
+
 Comentarios o consultas:
 Programa de teletrabajo de la UNED de Costa Rica.
 Adriana Oviedo Vega,
