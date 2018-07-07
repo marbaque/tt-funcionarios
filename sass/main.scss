@@ -755,12 +755,13 @@ dl {
 		padding: .2em .4em;
 		margin: 0 0 0 30px;
 		
-		
 	}
 	
 }
 
-
+.actividad .accordion-panel {
+	display: block;
+}
 .accordion-panel {
 	display: none; //comment this line to show and test
 	padding: 2em 1em;
@@ -1000,7 +1001,21 @@ dl {
 	
 }
 
-
+//h5p
+.h5p-container {
+	height: auto;
+	min-height: 380px;
+	@extend .caso;
+	height: auto;
+	overflow-y: visible;
+	iframe>body {
+		background: white!important;
+	}
+}
+.h5p-iframe-wrapper iframe.h5p-iframe {
+	background: white!important;
+	min-height: 380px;
+}
 
 /*-------------------------------------
 ** Caso

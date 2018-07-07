@@ -1327,6 +1327,9 @@ dl dd {
     padding: .2em .4em;
     margin: 0 0 0 30px; }
 
+.actividad .accordion-panel {
+  display: block; }
+
 .accordion-panel {
   display: none;
   padding: 2em 1em; }
@@ -1509,10 +1512,22 @@ dl dd {
   display: none;
   margin: 2em auto 0; }
 
+.h5p-container {
+  height: auto;
+  min-height: 380px;
+  height: auto;
+  overflow-y: visible; }
+  .h5p-container iframe > body {
+    background: white !important; }
+
+.h5p-iframe-wrapper iframe.h5p-iframe {
+  background: white !important;
+  min-height: 380px; }
+
 /*-------------------------------------
 ** Caso
 ----------------------------------------*/
-.caso {
+.caso, .h5p-container {
   background: white;
   -moz-border-radius: 0.5em;
   -webkit-border-radius: 0.5em;
@@ -1526,7 +1541,7 @@ dl dd {
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.15);
   line-height: 1.65; }
   @media screen and (min-width: 750px) {
-    .caso {
+    .caso, .h5p-container {
       padding: 1em 1.75em;
       font-size: 110%; } }
 
