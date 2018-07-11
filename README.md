@@ -16,7 +16,7 @@ Nota: esta Guía emplea el término teletrabajador, refiriéndose tanto al géne
 * Adaptación de contenido: Adriana Oviedo Vega y Alejandra Arce Romero, Programa de teletrabajo de la UNED de Costa Rica.
 * Supervisión: Edgar Castro, Vicerrector de Planificación de la UNED de Costa Rica.
 * Revisión filológica: Mauren González Jones.
-* Diseño gráfico e ilustraciones: Juan Diego Delgado Vargas.
+* Diseño gráfico, ilustraciones y figuras: Juan Diego Delgado Vargas.
 * Fotografías: ©Depositphotos.Inc, adquiridas bajo Licencia Estándar.
 * Desarrollo y programación web: Mario Badilla Quesada.
 
