@@ -770,6 +770,13 @@ dl {
 	}
 }
 
+.accordion {
+	&.actividad {
+		.accordion-panel {
+			display: block;
+		}
+	}
+}
 
 
 .accordion-panel img {
@@ -1089,7 +1096,19 @@ button.modal-close {
  	background: white;
  }
 
-
+/////////////////////////////////////////////////////h5p
+.h5p-container {
+	@extend .caso;
+	height: auto;
+	
+	html.h5p-iframe, html.h5p-iframe > body {
+		overflow-y: hidden;
+	}
+	
+	.h5p-no-frame .questionset .h5p-question > * {
+		line-height: 1.35;
+	}
+}
 
 
 

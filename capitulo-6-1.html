@@ -30,7 +30,30 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="favicon.png">
 
-  
+  <!-- H5P
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link type="text/css" rel="stylesheet" media="all" href="h5p-standalone/dist/styles/h5p.css" />
+  <script type="text/javascript" src="h5p-standalone/dist/js/h5p-standalone-main.min.js"></script>
+  <script type="text/javascript">
+    (function($) {
+      $(function() {
+        $('.h5p-container').h5p({
+          frameJs: 'h5p-standalone/dist/js/h5p-standalone-frame.min.js',
+          frameCss: 'h5p-standalone/dist/styles/h5p.css',
+          h5pContent: 'h5p-standalone/workspace/tic-como-apoyo-del-teletrabajo-teletrabajadores-275516',
+          displayOptions: { // OPTIONAL hide the frame or download, export etc. buttons they are visible by default
+		    frame: false,
+		    copyright: false,
+		    embed: false,
+		    download: false,
+		    icon: false,
+		    export: false
+		  }
+        });
+      });
+    })(H5P.jQuery);
+  </script>
+
 
 </head>
 <body>
@@ -175,17 +198,7 @@
 						<p>A continuación, seleccioná la herramienta que corresponda con la definición indicada.</p>
 
 			            
-			            <div class="quiz-container app-container">
-							<div id="quiz"></div>
-						</div>
-						<div class="quiz-nav">
-							<button id="previous">Anterior</button>
-							<button id="next">Siguiente</button>
-							<button id="submit">Consultar</button>
-							
-						</div>
-						<div id="results"></div>
-						<button id="reset">Reiniciar actividad</button>
+			            <div class="h5p-container"></div>
 
 			        </div>
 		          </div>
@@ -244,7 +257,6 @@
   <script src="js/navigation.js"></script>
   <link href="dist/css/lightbox.css" rel="stylesheet">
   <script src="dist/js/lightbox.js"></script>
-  <script src="js/quiz-tic.js" charset="utf-8">
   	
   </script>
 </body>

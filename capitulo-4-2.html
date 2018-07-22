@@ -30,7 +30,30 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="favicon.png">
 
-  
+   <!-- H5P
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link type="text/css" rel="stylesheet" media="all" href="h5p-standalone/dist/styles/h5p.css" />
+  <script type="text/javascript" src="h5p-standalone/dist/js/h5p-standalone-main.min.js"></script>
+  <script type="text/javascript">
+    (function($) {
+      $(function() {
+        $('.h5p-container').h5p({
+          frameJs: 'h5p-standalone/dist/js/h5p-standalone-frame.min.js',
+          frameCss: 'h5p-standalone/dist/styles/h5p.css',
+          h5pContent: 'h5p-standalone/workspace/aspectos-salud-teletrabajadores-t-f-282419',
+          displayOptions: { // OPTIONAL hide the frame or download, export etc. buttons they are visible by default
+		    frame: false,
+		    copyright: false,
+		    embed: false,
+		    download: false,
+		    icon: false,
+		    export: false
+		  }
+        });
+      });
+    })(H5P.jQuery);
+  </script>
+
 
 </head>
 <body>
@@ -179,13 +202,7 @@
 						<h4>Instrucciones:</h4>
 						<p>Lee con detenimiento las actividades y seleccioná entre las opciones Sí o No según considerés si la actividad contribuye a mantener tu buen estado de salud en caso de incorporarte a teletrabajar, al finalizar, verificá tus respuestas.</p>
 
-						<div id="quiz"></div>
-						<div class="quiz-nav">
-							<button id="submit">Verificar respuestas</button>
-							<button id="reset">Reiniciar actividad</button>
-						</div>
-						
-						<div id="results"></div>
+						<div class="h5p-container"></div>
 
     	
     					
@@ -249,6 +266,5 @@
   <script src="js/navigation.js"></script>
   <link href="dist/css/lightbox.css" rel="stylesheet">
   <script src="dist/js/lightbox.js"></script>
-  <script src="js/quiz-iv.js"></script>
 </body>
 </html>
