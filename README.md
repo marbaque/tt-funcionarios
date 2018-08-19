@@ -18,6 +18,8 @@ Nota: esta Guía emplea el término teletrabajador, refiriéndose tanto al géne
 * Revisión filológica: Mauren González Jones.
 * Diseño gráfico, ilustraciones y figuras: Juan Diego Delgado Vargas.
 * Fotografías: ©Depositphotos.Inc, adquiridas bajo Licencia Estándar.
+*©Pixabay, Licencia CC0 1.0.
+*©Flickr, Licencias: CC BY-NC-SA 4.0, CC BY-SA 4.0 y CC BY-NC 4.0.
 * Desarrollo y programación web: Mario Badilla Quesada.
 
 Comentarios o consultas:
