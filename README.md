@@ -1,5 +1,5 @@
 # Libro multimedia Guía de teletrabajo para teletrabajadores
-La Guía de teletrabajo para teletrabajadores se elaboró para vos, que te desempeñarás próximamente como teletrabajador y estás interesado en conocer las principales características y consideraciones del teletrabajo para el desempeño óptimo de tus labores.
+La Guía de teletrabajo para personas teletrabajadoras se elaboró para vos, que te desempeñarás próximamente como teletrabajador y estás interesado en conocer las principales características y consideraciones del teletrabajo para el desempeño óptimo de tus labores.
 
 Como podrás observar, este material está conformado por una introducción, seis capítulos, un glosario y las referencias bibliográficas respectivas. Además, está disponible en una versión en formato PDF disponible para descargar.
 
