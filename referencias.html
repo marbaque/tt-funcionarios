@@ -43,8 +43,8 @@
 	  <header id="site-navigation" class="site-header">
 
 		  <div class="branding" role="heading">
-			  <a href="index.html" class="logo" aria-hidden="true"></a>
-			  <p class="title"><a href="index.html" title="Bienvenida">Guía de teletrabajo para teletrabajadores</a></p>
+			  <span class="logo" aria-hidden="true"></span>
+			  <h1 class="title">Guía de teletrabajo para teletrabajadores</h1>
 		  </div>
 		  <button id="nav-trigger" class="toggle-button">Menu</button>
 		  <nav class="nav-menu" role="navigation">
@@ -52,11 +52,7 @@
 				  <p class="title">Guía de teletrabajo para teletrabajadores</p>
 			  </div>
 			  <ul>
-				  <li><a href="index.html#capitulos" title="Capítulos">Capítulos</a></li>
-				  <li><a href="glosario.html" title="Glosario">Glosario</a></li>
-				  <li><a href="referencias.html" title="Referencias" class="active">Referencias</a></li>
-				  <li><a href="guia-pdf.html" title="Guía de teletrabajo para teletrabajadores en PDF">Versión PDF</a></li>
-				  <li class="hide-md"><a href="creditos.html" title="Créditos">Créditos</a></li>
+				<li><a style="cursor: pointer" onclick="goBack()">&larr; Regresar</a></li>
 			  </ul>
 		  </nav>
 	  </header>
@@ -164,7 +160,7 @@
   <!-- aqui termina contenido principal -->
   <a href="#top" id="topbutton" class="backtop" title="Scroll hasta arriba" aria-hidden="true">&#8673; Inicio</a>
   <!-- pie de página -->
-  <div id="footer" class="footer u-full-width">
+  <div id="footer" class="footer u-full-width" style="display: none;">
 	  <div class="container">
 		  <div class="row">
 			 <nav class="footer-menu" role="navigation">
@@ -188,5 +184,10 @@
   <script src="js/navigation.js"></script>
   <link href="dist/css/lightbox.css" rel="stylesheet">
   <script src="dist/js/lightbox.js"></script>
+  <script>
+    function goBack() {
+      window.history.back();
+    }
+  </script>
 </body>
 </html>
